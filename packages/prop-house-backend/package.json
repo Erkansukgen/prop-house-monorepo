@@ -28,7 +28,7 @@
     "migration:drop": "yarn build && yarn run typeorm migration:drop"
   },
   "dependencies": {
-    "@discordjs/rest": "^2.0.0",
+    "@discordjs/rest": "^2.4.3",
     "@nestjs/apollo": "^10.1.0",
     "@nestjs/common": "^8.0.0",
     "@nestjs/config": "^1.1.2",
