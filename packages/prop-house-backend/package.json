@@ -40,7 +40,7 @@
     "@nestjs/throttler": "^3.1.0",
     "@nestjs/typeorm": "^8.0.2",
     "@pinata/sdk": "^2.1.0",
-    "apollo-server-express": "^3.10.2",
+    "apollo-server-express": "^3.13.0",
     "body-parser": "^1.20.0",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.13.2",
@@ -52,9 +52,9 @@
     "mime-types": "^2.1.35",
     "pg": "^8.7.1",
     "reflect-metadata": "^0.1.13",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.3.1",
     "rxjs": "^7.2.0",
-    "typeorm": "^0.2.41"
+    "typeorm": "^0.3.18"
   },
   "devDependencies": {
     "@nestjs/cli": "^8.0.0",
