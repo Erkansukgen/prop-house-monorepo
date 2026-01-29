@@ -5,7 +5,7 @@
   "types": "dist/index.d.ts",
   "license": "MIT",
   "dependencies": {
-    "supabase": "^1.50.4"
+    "supabase": "^2.72.9"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.2"
